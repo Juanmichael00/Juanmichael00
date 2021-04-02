@@ -4,7 +4,7 @@
  love technology, from hardware to software
 
 <div class="container">
-<img src="profile-img.jpg">
+<img src="profile-img.jpg"height="auto" width="200" style="border-radius:30%">
 </div>
 
 ### 💻Rede Sociais
