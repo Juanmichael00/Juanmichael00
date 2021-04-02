@@ -3,10 +3,6 @@
  focused on web development (front-end).
  love technology, from hardware to software
 
-<div class="container">
-<img src="profile.jpg">
-</div>
-
 
 ### 💻Rede Sociais
 
