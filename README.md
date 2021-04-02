@@ -3,6 +3,9 @@
  focused on web development (front-end).
  love technology, from hardware to software
 
+<div class="container">
+<img src="profile-img.jpg">
+</div>
 
 ### 💻Rede Sociais
 
@@ -11,7 +14,7 @@
 
 ### 📖 Conhecimentos
 
-<img src="/language/css3-brands.svg" width="27">
+[<img src="/language/css3-brands.svg" width="27">](https://github.com/Juanmichael00/Login-Instagram-Flexbox.git)
 <img src="/language/html5-brands.svg" width="21">
 <img src="/language/js-brands.svg" width="25">
 
