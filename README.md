@@ -1,4 +1,4 @@
-  ### Hi there, I'm @Juan Michael 👋  🤖
+  ##   Hi there, I'm @Juan Michael 👋  🤖
  - Student of systems analysis and development,
  focused on web development (front-end).
  love technology, from hardware to software
