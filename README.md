@@ -11,6 +11,7 @@
 
 [<img src="/icons/logo-instagram.svg" width="22">](https://www.instagram.com/jmichael__00/)
 [<img src="/icons/logo-linkedin.svg" width="22">](https://www.linkedin.com/in/juan-michael-2979a016a/)
+[<img src="/icons/logo-whatsapp.svg" width="22">](https://web.whatsapp.com/send?phone=5531975331181)
 
 ### 📖 Conhecimentos
 
