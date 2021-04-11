@@ -7,7 +7,7 @@
 <img src="profile-img.jpg"height="245" width="850" style="border-radius:10%">
 </div>
 
-## Redes Sociais 💻
+## 💻 Redes Sociais 
 
 [<img src="/icons/logo-instagram.svg" width="22">](https://www.instagram.com/jmichael__00/)
 [<img src="/icons/logo-linkedin.svg" width="22">](https://www.linkedin.com/in/juan-michael-2979a016a/)
