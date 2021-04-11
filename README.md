@@ -3,9 +3,9 @@
  focused on web development (front-end).
  love technology, from hardware to software
 
-<div class="container">
+ <div class="container">
 <img src="profile-img.jpg"height="245" width="850" style="border-radius:10%">
-</div>
+ </div>
 
 ### 💻Rede Sociais
 
