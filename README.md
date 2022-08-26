@@ -7,20 +7,23 @@
 <img src="profile-img.jpg"height="245" width="850" style="border-radius:10%">
 </div>
 
-## Certifications
+## My certifications:
 
 <a href="[https://www.credly.com/badges/f2047f5e-fc4e-47cc-8364-6fef0a09dce6?source=linked_in_profile](https://www.credly.com/badges/e57673ed-bc14-46cd-8417-08dfb5d2f5b8/public_url)" target="_blank" title="AWS Certified Solutions Architect – Associate">
   <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" alt="AWS-SAA-C02-Associate" width="150">
 </a>
 
 
-## 💻 Redes Sociais 
+## 💻 Redes Sociais:
 
-[<img src="/icons/logo-instagram.svg" width="22">](https://www.instagram.com/jmichael__00/)
-[<img src="/icons/logo-linkedin.svg" width="22">](https://www.linkedin.com/in/juan-michael-2979a016a/)
-[<img src="/icons/logo-whatsapp.svg" width="22">](https://api.whatsapp.com/send?phone=5531975331181)
+[<img src="/icons/logo-instagram.svg" width="24">](https://www.instagram.com/jmichael__00/)
+[<img src="/icons/logo-linkedin.svg" width="24">](https://www.linkedin.com/in/juan-michael-2979a016a/)
+[<img src="/icons/logo-whatsapp.svg" width="24">](https://api.whatsapp.com/send?phone=5531975331181)
 
-## 📖 Conhecimentos 🔧
+## 📖 Conhecimentos: 🔧
+
+
+<img align="center" alt="Rafa-Js" height="30" width="80" src="(https://camo.githubusercontent.com/0c3a16a22ae058cfe38a06dc9ea16404cf006409262f547c9ccfa3ec8b30f71e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)"
 
 ![HTML](https://camo.githubusercontent.com/0c3a16a22ae058cfe38a06dc9ea16404cf006409262f547c9ccfa3ec8b30f71e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
 ![CSS](https://camo.githubusercontent.com/2435c2a64789b8a71c701a1a593b4a6e6869789bfb0626e515dc2a6b6dffa6c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333)
