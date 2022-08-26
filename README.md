@@ -1,7 +1,5 @@
   ##   Hi there, I'm @Juan Michael 👋  🤖 🚀
- - Student of systems analysis and development,
- focused on web development (front-end).
- love technology, from hardware to software
+ - Graduated in Systems Analysis and Development, passionate about technology, innovation, experimenting in projects, proactive and in search of new knowledge for new specializations. Interested and improving knowledge in the world of cloud computing and information security.
 
 <div class="container">
 <img src="profile-img.jpg"height="245" width="850" style="border-radius:10%">
@@ -9,10 +7,20 @@
 
 ## My certifications:
 
+<div>
+  
 <a href="[https://www.credly.com/badges/f2047f5e-fc4e-47cc-8364-6fef0a09dce6?source=linked_in_profile](https://www.credly.com/badges/e57673ed-bc14-46cd-8417-08dfb5d2f5b8/public_url)" target="_blank" title="AWS Certified Solutions Architect – Associate">
   <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" alt="AWS-SAA-C02-Associate" width="150">
 </a>
 
+ <a href="[https://www.credly.com/badges/9e7a6efe-c795-4566-9133-db57288442e8/public_url)" target="_blank" title="AWS Certified Solutions Architect – Associate">
+  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" alt="AWS-SAA-C02-Associate" width="150">
+</a>
+
+
+
+
+</div>
 
 ## 💻 Redes Sociais:
 
