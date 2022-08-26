@@ -21,6 +21,10 @@
   <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/twitter_thumb_201604_image.png" alt="AZ-900" width="110">
 </a>
 
+   <a href="https://www.oracle.com/br/corporate/features/oracle-certification.html" target="_blank" title="OCI Foundation Associate">
+  <img src="https://images.credly.com/images/27db49f3-8bae-4314-8a84-884935b569db/50_Oracle_Cloud_Infrastructure.png" alt="OCI" width="110">
+</a>
+
 
 
 
