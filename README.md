@@ -14,7 +14,7 @@
 </a>
 
  <a href="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" target="_blank" title="AWS Certified Solutions Architect – Associate">
-  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" alt="AWS-SAA-C02-Associate" width="150">
+  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="AWS-SAA-C02-Associate" width="150">
 </a>
 
 
