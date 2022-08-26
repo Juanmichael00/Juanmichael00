@@ -10,7 +10,7 @@
 ## Certifications
 
 <a href="[https://www.credly.com/badges/f2047f5e-fc4e-47cc-8364-6fef0a09dce6?source=linked_in_profile](https://www.credly.com/badges/e57673ed-bc14-46cd-8417-08dfb5d2f5b8/public_url)" target="_blank" title="AWS Certified Solutions Architect – Associate">
-  <img src="[https://images.credly.com/size/340x340/images/5b075140-d286-4c8a-9be9-2b87f9e10839/Terraform-Associate-Badge.png](https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png)" alt="AWS-SAA-C02-Associate" width="150">
+  <img src="[[https://images.credly.com/size/340x340/images/5b075140-d286-4c8a-9be9-2b87f9e10839/Terraform-Associate-Badge.png](https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png)](https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png)" alt="AWS-SAA-C02-Associate" width="150">
 </a>
 
 
