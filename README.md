@@ -13,8 +13,12 @@
   <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" alt="AWS-SAA-C02-Associate" width="110">
 </a>
 
- <a href="https://www.credly.com/badges/9e7a6efe-c795-4566-9133-db57288442e8" target="_blank" title="AWS Certified Solutions Architect – Associate">
+ <a href="https://www.credly.com/badges/9e7a6efe-c795-4566-9133-db57288442e8" target="_blank" title="AWS Certified Cloud Practitioner">
   <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="AWS-CCP" width="110">
+</a>
+  
+  <a href="https://www.credly.com/badges/c9eee10f-612c-4ae2-ae7c-aabde15ea28d" target="_blank" title="Microsoft Certified: Azure Fundamentals">
+  <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/twitter_thumb_201604_image.png" alt="AZ-900" width="110">
 </a>
 
 
