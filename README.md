@@ -22,12 +22,6 @@
 
 </div>
 
-## 💻 Redes Sociais:
-
-[<img src="/icons/logo-instagram.svg" width="24">](https://www.instagram.com/jmichael__00/)
-[<img src="/icons/logo-linkedin.svg" width="24">](https://www.linkedin.com/in/juan-michael-2979a016a/)
-[<img src="/icons/logo-whatsapp.svg" width="24">](https://api.whatsapp.com/send?phone=5531975331181)
-
 ## 📖 Skills: 🔧
 
 <div>
@@ -44,6 +38,13 @@
   <img align="center" alt="Rafa-Js" height="30" width="90" src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
 
 </div>
+
+## 💻 Redes Sociais:
+
+[<img src="/icons/logo-instagram.svg" width="24">](https://www.instagram.com/jmichael__00/)
+[<img src="/icons/logo-linkedin.svg" width="24">](https://www.linkedin.com/in/juan-michael-2979a016a/)
+[<img src="/icons/logo-whatsapp.svg" width="24">](https://api.whatsapp.com/send?phone=5531975331181)
+
 
 ## 📈 GitHub Status 
 
