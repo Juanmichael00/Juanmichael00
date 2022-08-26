@@ -7,6 +7,13 @@
 <img src="profile-img.jpg"height="245" width="850" style="border-radius:10%">
 </div>
 
+## Certifications
+
+<a href="[https://www.credly.com/badges/f2047f5e-fc4e-47cc-8364-6fef0a09dce6?source=linked_in_profile](https://www.credly.com/badges/e57673ed-bc14-46cd-8417-08dfb5d2f5b8/public_url)" target="_blank" title="AWS Certified Solutions Architect – Associate">
+  <img src="https://images.credly.com/size/340x340/images/5b075140-d286-4c8a-9be9-2b87f9e10839/Terraform-Associate-Badge.png" alt="HashiCorp Certified: Terraform Associate" width="150">
+</a>
+
+
 ## 💻 Redes Sociais 
 
 [<img src="/icons/logo-instagram.svg" width="22">](https://www.instagram.com/jmichael__00/)
