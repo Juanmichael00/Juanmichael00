@@ -12,6 +12,10 @@
 <a href="https://www.credly.com/earner/earned/badge/e57673ed-bc14-46cd-8417-08dfb5d2f5b8" target="_blank" title="AWS Certified Solutions Architect – Associate">
   <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" alt="AWS-SAA-C02-Associate" width="100">
 </a>
+  
+<a href="https://www.credly.com/earner/earned/badge/9edfd084-8cd5-48b9-aee6-5183a96f64d9" target="_blank" title="AWS Certified Developer – Associate">
+  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png" alt="AWS-DVA-C02-Associate" width="100">
+</a>  
 
  <a href="https://www.credly.com/badges/9e7a6efe-c795-4566-9133-db57288442e8" target="_blank" title="AWS Certified Cloud Practitioner">
   <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="AWS-CCP" width="100">
