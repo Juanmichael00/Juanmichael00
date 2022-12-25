@@ -53,7 +53,6 @@
 [<img src="/icons/logo-instagram.svg" width="25">](https://www.instagram.com/jmichael__00/)
 [<img src="/icons/logo-linkedin.svg" width="25">](https://www.linkedin.com/in/juan-michael-2979a016a/)
 [<img src="/icons/logo-whatsapp.svg" width="25">](https://api.whatsapp.com/send?phone=5531975331181)
-[<img src="/icons/youtube.svg" width="35">](https://www.youtube.com/@journey_cloud_tech)
 
 ## 📈 GitHub Status 
 
