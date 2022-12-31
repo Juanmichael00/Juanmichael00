@@ -50,7 +50,7 @@
 
 ## 💻 Social Networks:
 
-[<img src="/icons/logo-instagram.svg" width="25">](https://www.instagram.com/jmichael__00/)
+[<img src="/icons/logo-instagram.svg" width="25">](https://www.instagram.com/j.michael__00/)
 [<img src="/icons/logo-linkedin.svg" width="25">](https://www.linkedin.com/in/juan-michael-2979a016a/)
 [<img src="/icons/logo-whatsapp.svg" width="25">](https://api.whatsapp.com/send?phone=5531975331181)
 
