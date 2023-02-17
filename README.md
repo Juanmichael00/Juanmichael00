@@ -13,6 +13,10 @@
   <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" alt="AWS-SAA-C02-Associate" width="100">
 </a>
   
+  <a href="https://www.credly.com/badges/26c0fefc-153c-4806-a41b-8bfe3c57ea3a" target="_blank" title="AWS Certified SysOps Administrator – Associate">
+  <img src="https://images.credly.com/size/340x340/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS-SOA-C02-Associate" width="100">
+</a>
+  
 <a href="https://www.credly.com/earner/earned/badge/9edfd084-8cd5-48b9-aee6-5183a96f64d9" target="_blank" title="AWS Certified Developer – Associate">
   <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png" alt="AWS-DVA-C02-Associate" width="100">
 </a>  
