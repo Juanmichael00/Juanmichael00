@@ -9,6 +9,10 @@
 
 <div>
   
+<a href="https://www.credly.com/earner/earned/badge/56433eac-5f95-4e08-a1a0-353a88872c25" target="_blank" title="AWS Certified Security -Specialty">
+  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Security-Specialty_badge.75ad1e505c0241bdb321f4c4d9abc51c0109c54f.png" alt="AWS-Sec" width="100">
+</a>  
+  
 <a href="https://www.credly.com/earner/earned/badge/e57673ed-bc14-46cd-8417-08dfb5d2f5b8" target="_blank" title="AWS Certified Solutions Architect – Associate">
   <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" alt="AWS-SAA-C02-Associate" width="100">
 </a>
