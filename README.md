@@ -13,6 +13,10 @@
   <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Security-Specialty_badge.75ad1e505c0241bdb321f4c4d9abc51c0109c54f.png" alt="AWS-Sec" width="100">
 </a>  
   
+<a href="https://www.credly.com/earner/earned/badge/78f92bf6-05aa-468b-a979-d93a5fdf2052" target="_blank" title="AWS SAP">
+  <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Professional_badge.69d82ff1b2861e1089539ebba906c70b011b928a.png" alt="AWS-sap" width="100">
+</a>    
+  
 <a href="https://www.credly.com/earner/earned/badge/e57673ed-bc14-46cd-8417-08dfb5d2f5b8" target="_blank" title="AWS Certified Solutions Architect – Associate">
   <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" alt="AWS-SAA-C02-Associate" width="100">
 </a>
