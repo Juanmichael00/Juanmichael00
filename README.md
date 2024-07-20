@@ -1,5 +1,5 @@
   ##   Hi there, I'm @Juan Michael 👋  🤖 🚀
- - Graduated in Systems Analysis and Development, passionate about technology, innovation, experimenting in projects, open source tools, proactive and in search of new knowledge for new specializations. Currently working with I.T Infraestructure at Zetrasoft, interested and improving knowledge in the world of Cloud Computing, Information Security and tools of the Devops Culture.
+ - Graduated in Systems Analysis and Development, passionate about technology, innovation, experimenting in projects, open source tools, proactive and in search of new knowledge for new specializations. Currently working with Cloud Infrastructure at Zetrasoft, interested and improving knowledge in the world of Cloud Computing, Information Security and tools of the Devops Culture.
 
 <div class="container">
 <img src="profile-img.jpg"height="225" width="830" style="border-radius:10%">
